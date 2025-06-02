@@ -8,6 +8,7 @@ const userRoutes = require("./routes/userRoutes");
 const projectRoutes = require("./routes/projectRoutes");
 const githubRoutes = require('./routes/githubRoutes');
 const gitRoutes = require('./routes/gitRoutes');
+require("dotenv").config();
 
 const app = express();
 const server = http.createServer(app);
@@ -29,7 +30,7 @@ const io = new Server(server, {
   },
 });
 
-mongoose.connect("mongodb+srv://thilankawijesingham:NPZ8LSJkiYTXvfEq@cluster0.kmv2to4.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0", {
+mongoose.connect(process.env.MONGO_URI, {
   useNewUrlParser: true,
   useUnifiedTopology: true,
 })
