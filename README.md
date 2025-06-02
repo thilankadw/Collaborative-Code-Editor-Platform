@@ -90,7 +90,14 @@ A full-stack MERN + Python (Phidata) project showcasing a real-time collaborativ
 
 ## 📷 Screenshots (Optional)
 
-_Add screenshots/gifs of your UI showing collaboration, code analysis, and GitHub sync._
+![Home](screenshots/home.png)
+![Projects](screenshots/projects.png)
+![AI Analysis](screenshots/aianalysis.png)
+![Git Integration](screenshots/git.png)
+![Code Editor Platform](screenshots/editor.png)
+![Add Collaborators](screenshots/addcollab.png)
+![New Project](screenshots/newproject.png)
+![Join a Project](screenshots/joinprojecy.png)
 
 ---
 
