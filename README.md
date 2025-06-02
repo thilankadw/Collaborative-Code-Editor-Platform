@@ -88,7 +88,7 @@ A full-stack MERN + Python (Phidata) project showcasing a real-time collaborativ
 
 ---
 
-## 📷 Screenshots (Optional)
+## 📷 Screenshots
 
 ![Home](screenshots/home.png)
 ![Projects](screenshots/projects.png)
@@ -115,17 +115,7 @@ This project highlights my skills in:
 
 ---
 
-## 📦 Future Enhancements (Suggestions)
-
-- Role-based collaboration permissions
-- Live chat or voice integration
-- LLM-powered code suggestions
-- Multi-language syntax support
-- CI/CD pipelines for collaborative builds
-
----
-
-## 📚 How to Run (Optional Section if Sharing Repo)
+## 📚 How to Run 
 
 1. Clone the repo
 2. Install backend dependencies (`npm install`), run server
@@ -137,9 +127,9 @@ This project highlights my skills in:
 
 ## 🙋‍♂️ Author
 
-**[Your Name]**  
-📫 [your-email@example.com]  
-🔗 [LinkedIn | Portfolio | GitHub]
+**[Thilanka]**  
+📫 [thilankawijesingham.com]  
+🔗 [[LinkedIn](https://www.linkedin.com/in/thilanka-wijesingha-a88105284/) ]
 
 ---
 
