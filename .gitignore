@@ -1,0 +1,48 @@
+# === OS files ===
+.DS_Store
+Thumbs.db
+
+# === Logs ===
+*.log
+
+# === Environment files ===
+.env
+
+# === Node.js ===
+node_modules/
+
+# npm debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# === Python ===
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+# Python virtual environments (uncomment if using virtualenv)
+venv/
+env/
+.venv/
+
+# === IDE and editor files ===
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# === Build and output folders ===
+dist/
+build/
+out/
+bin/
+target/
+
+# === Coverage reports ===
+coverage/
+*.lcov
+
+# === Backup and temp files ===
+*.bak
+*.tmp
