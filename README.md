@@ -128,7 +128,7 @@ This project highlights my skills in:
 ## 🙋‍♂️ Author
 
 **[Thilanka]**  
-📫 [thilankawijesingham.com]  
+📫 [thilankawijesingham@gmail.com]  
 🔗 [[LinkedIn](https://www.linkedin.com/in/thilanka-wijesingha-a88105284/) ]
 
 ---
